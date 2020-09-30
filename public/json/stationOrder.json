@@ -1,0 +1,45 @@
+[{
+    "status":"待支付",
+    "href": "./confirmPay.html",
+    "oBtn":"去支付"
+},{
+    "status":"待确认",
+    "href": "",
+    "oBtn":""
+},{
+    "status":"待派单",
+    "href": "",
+    "oBtn":""
+},{
+    "status":"待接单",
+    "href": "",
+    "oBtn":""
+},{
+    "status":"已接单",
+    "href": "#",
+    "oBtn":"联系检测站"
+},{
+    "status":"预约成功",
+    "href": "#",
+    "oBtn":"联系检测站"
+},{
+    "status":"年检中",
+    "href": "#",
+    "oBtn":"联系检测站"
+},{
+    "status":"已完成",
+    "href": "",
+    "oBtn":""
+},{
+    "status":"退款中",
+    "href": "",
+    "oBtn":""
+},{
+    "status":"已退款",
+    "href": "",
+    "oBtn":""
+},{
+    "status":"已取消",
+    "href": "",
+    "oBtn":""
+}]

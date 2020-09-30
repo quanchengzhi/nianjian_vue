@@ -1,0 +1,271 @@
+[
+    {
+        "handleType": "六年免检",
+        "status": "请在59分钟内支付",
+        "queryState": 0,
+        "oBtn": "去支付"
+    },
+    {
+        "handleType": "六年免检",
+        "status": "待确认",
+        "queryState": 1,
+        "oBtn": ""
+    },
+    {
+        "handleType": "六年免检",
+        "status": "待补交资料",
+        "queryState": 2,
+        "oBtn": "补交资料"
+    },
+    {
+        "handleType": "六年免检",
+        "status": "待派单",
+        "queryState": 3,
+        "oBtn": ""
+    },
+    {
+        "handleType": "六年免检",
+        "status": "年检中",
+        "queryState": 4,
+        "oBtn": ""
+    },
+    {
+        "handleType": "六年免检",
+        "status": "已完成",
+        "queryState": 5,
+        "oBtn": ""
+    },
+    {
+        "handleType": "六年免检",
+        "status": "退款中",
+        "queryState": 6,
+        "oBtn": ""
+    },
+    {
+        "handleType": "六年免检",
+        "status": "已退款",
+        "queryState": 7,
+        "oBtn": ""
+    },
+    {
+        "handleType": "六年免检",
+        "status": "已取消",
+        "queryState": 8,
+        "oBtn": ""
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "请在59分钟内支付",
+        "queryState": 0,
+        "oBtn": "去支付",
+        "masterNum": "",
+        "masterName": "",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "待确认",
+        "queryState": 1,
+        "oBtn": "",
+        "masterName": "",
+        "masterNum": "",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "待派单",
+        "queryState": 2,
+        "oBtn": "",
+        "masterName": "",
+        "masterNum": "",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "待接单",
+        "queryState": 3,
+        "oBtn": "",
+        "masterName": "",
+        "masterNum": "",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "已接单",
+        "queryState": 4,
+        "href": "tel:00000000",
+        "oBtn": "联系师傅",
+        "masterName": "刘师傅",
+        "masterNum": "0987-7488",
+        "takeCarTime": "2020-01-23 10:30-11:00",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "待接车",
+        "queryState": 5,
+        "href": "tel:00000000",
+        "oBtn": "联系师傅",
+        "masterName": "刘师傅",
+        "masterNum": "0987-7488",
+        "takeCarTime": "2020-01-23 10:30-11:00",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "年检中",
+        "queryState": 6,
+        "href": "tel:00000000",
+        "oBtn": "联系师傅",
+        "masterName": "刘师傅",
+        "masterNum": "0987-7488",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "待交车",
+        "queryState": 7,
+        "href": "tel:00000000",
+        "oBtn": "联系师傅",
+        "masterName": "刘师傅",
+        "masterNum": "0987-7488",
+        "takeCarTime": "",
+        "returnCar": 1
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "已完成",
+        "queryState": 8,
+        "oBtn": "",
+        "masterName": "刘师傅",
+        "masterNum": "0987-7488",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "退款中",
+        "queryState": 9,
+        "oBtn": "",
+        "masterName": "",
+        "masterNum": "",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "已退款",
+        "queryState": 10,
+        "oBtn": "",
+        "masterName": "",
+        "masterNum": "",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "上门接车代办",
+        "status": "已取消",
+        "queryState": 11,
+        "oBtn": "",
+        "masterName": "",
+        "masterNum": "",
+        "takeCarTime": "",
+        "returnCar": 0
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "请在59分钟内支付",
+        "queryState": 0,
+        "oBtn": "去支付",
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "待确认",
+        "queryState": 1,
+        "oBtn": ""
+        ,
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "待派单",
+        "queryState": 2,
+        "oBtn": ""
+        ,
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "待接单",
+        "queryState": 3,
+        "oBtn": ""
+        ,
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "已接单",
+        "queryState": 4,
+        "href1": "tel:00000000",
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "预约成功",
+        "queryState": 5,
+        "href1": "tel:00000000",
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "年检中",
+        "queryState": 6,
+        "href1": "tel:00000000",
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "已完成",
+        "queryState": 7,
+        "oBtn": "",
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "退款中",
+        "queryState": 8,
+        "oBtn": "",
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "已退款",
+        "queryState": 9,
+        "oBtn": "",
+        "station": 1,
+        "appointment": 1
+    },
+    {
+        "handleType": "站内师傅代办",
+        "status": "已取消",
+        "queryState": 10,
+        "oBtn": "",
+        "station": 1,
+        "appointment": 1
+    }
+]

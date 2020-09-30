@@ -1,0 +1,301 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+}
+
+input {
+    border: none;
+    outline: none;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Microsoft YaHei';
+    font-style: normal;
+}
+
+
+a {
+    text-decoration: none
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+    outline: 0 none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+header,
+footer,
+article,
+aside,
+section,
+nav,
+menu,
+hgroup,
+details,
+dialog,
+figure,
+figcaption {
+    display: block
+}
+
+ol,
+li,
+ul,
+dl,
+dt,
+dd {
+    list-style: none;
+}
+
+fieldset,
+img {
+    border: 0
+}
+
+button,
+submit,
+input,
+select {
+    /* vertical-align: middle; */
+    outline: none;
+}
+
+input,
+textarea,
+select,
+button {
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+input:disabled {
+    background: none;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+textarea {
+    border: none;
+    resize: none;
+    outline: none;
+    overflow-x: hidden;
+}
+
+button,
+submit {
+    cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: inherit;
+    font-weight: normal;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th {
+    font-weight: normal;
+}
+
+sup {
+    vertical-align: text-top;
+}
+
+sub {
+    vertical-align: text-bottom;
+}
+
+select,
+button {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    outline-style: none;
+    outline-width: 0pt;
+    padding: 0;
+    margin: 0;
+}
+
+b,
+em,
+i,
+strong {
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.inb {
+    display: inline-block !important;
+}
+
+.hide {
+    display: none;
+}
+
+.block {
+    display: block !important;
+}
+
+.flex {
+    display: flex;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.inb {
+    display: inline-block !important;
+}
+
+.align {
+    align-items: center;
+}
+
+.vab {
+    vertical-align: bottom !important;
+}
+
+.vam {
+    vertical-align: middle;
+}
+
+.vat {
+    vertical-align: top !important;
+}
+
+.txtc {
+    text-align: center !important;
+}
+
+.txtr {
+    text-align: right !important;
+}
+
+.txtl {
+    text-align: left !important;
+}
+
+.fff {
+    background: #fff !important;
+}
+
+.red {
+    color: red !important;
+}
+
+.curcor {
+    cursor: pointer;
+}
+
+.bd_no {
+    border: none !important;
+}
+
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 0.16rem;
+    font-weight: 400;
+    color: #CDCBCCFF;
+    line-height: 1.5em;
+}
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    font-size: 0.15rem;
+    font-family:"微软雅黑";
+    color: #CDCBCCFF;
+    line-height: 1.5em;
+}
+
+
+.clearfix::after {
+    display: block;
+    content: " ";
+    font-size: 0;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+}
+
+.thisHide {
+    display: none !important;
+}
+
+.thisShow {
+    display: block !important;
+}
+
+.thisVHide {
+    visibility: hidden;
+}
+
+.thisVShow {
+    visibility: visible;
+}
+
+.thisOpacity {
+    opacity: 0;
+}
+
+.bgGray {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    max-width: 750px;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+}

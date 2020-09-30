@@ -1,0 +1,37 @@
+[{
+    "status":"待支付",
+    "href": "./confirmPay.html",
+    "oBtn":"去支付"
+},{
+    "status":"待确认",
+    "href": "#",
+    "oBtn":""
+},{
+    "status":"待补交资料",
+    "href": "./supplementaryInfo.html",
+    "oBtn":"补交资料"
+},{
+    "status":"待派单",
+    "href": "#",
+    "oBtn":""
+},{
+    "status":"年检中",
+    "href": "#",
+    "oBtn":""
+},{
+    "status":"已完成",
+    "href": "#",
+    "oBtn":""
+},{
+    "status":"退款中",
+    "href": "#",
+    "oBtn":""
+},{
+    "status":"已退款",
+    "href": "#",
+    "oBtn":""
+},{
+    "status":"已取消",
+    "href": "#",
+    "oBtn":""
+}]

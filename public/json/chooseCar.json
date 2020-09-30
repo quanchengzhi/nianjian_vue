@@ -1,0 +1,13 @@
+[{
+    "carNum" : "粤B R238H",
+    "seatsNum" : "5座",
+    "registeredTime" : "注册日期：2020-03-01"
+},{
+    "carNum" : "粤B 12345",
+    "seatsNum" : "5座",
+    "registeredTime" : "注册日期：2020-04-01"
+},{
+    "carNum" : "粤B 13335",
+    "seatsNum" : "5座",
+    "registeredTime" : "注册日期：2020-05-01"
+}]

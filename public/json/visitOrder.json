@@ -1,0 +1,109 @@
+[{
+    "status":"待支付",
+    "href": "./confirmPay.html",
+    "oBtn":"去支付",
+    "masterNum":"",
+    "masterName":"",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"待确认",
+    "href": "#",
+    "oBtn":"",
+    "masterName":"",
+    "masterNum":"",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"待派单",
+    "href": "#",
+    "oBtn":"",
+    "masterName":"",
+    "masterNum":"",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"待接单",
+    "href": "#",
+    "oBtn":"",
+    "masterName":"",
+    "masterNum":"",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"已接单",
+    "href": "tel:00000000",
+    "oBtn":"联系师傅",
+    "masterName":"刘师傅",
+    "masterNum":"0987-7488",
+    "takeCarTime":"2020-01-23 10:30-11:00",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"待接车",
+    "href": "tel:00000000",
+    "oBtn":"联系师傅",
+    "masterName":"刘师傅",
+    "masterNum":"0987-7488",
+    "takeCarTime":"2020-01-23 10:30-11:00",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"年检中",
+    "href": "tel:00000000",
+    "oBtn":"联系师傅",
+    "masterName":"刘师傅",
+    "masterNum":"0987-7488",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"待交车",
+    "href": "tel:00000000",
+    "oBtn":"联系师傅",
+    "masterName":"刘师傅",
+    "masterNum":"0987-7488",
+    "takeCarTime":"",
+    "returnCar":"车辆已归还",
+    "returnCarHerf":"#"
+},{
+    "status":"已完成",
+    "href": "#",
+    "oBtn":"",
+    "masterName":"刘师傅",
+    "masterNum":"0987-7488",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"退款中",
+    "href": "#",
+    "oBtn":"",
+    "masterName":"",
+    "masterNum":"",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"已退款",
+    "href": "#",
+    "oBtn":"",
+    "masterName":"",
+    "masterNum":"",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+},{
+    "status":"已取消",
+    "href": "#",
+    "oBtn":"",
+    "masterName":"",
+    "masterNum":"",
+    "takeCarTime":"",
+    "returnCar":"",
+    "returnCarHerf":"#"
+}]
